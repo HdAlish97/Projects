@@ -6,7 +6,8 @@ Project Objectives:
 API Selection:
 
 Choose two APIs with substantial datasets, ensuring relevance to the project's scope.
-Ensure verification of the dataset's accuracy and appropriateness by September 18, 2023.
+Ensure verification of the dataset's accuracy and appropriateness.
+
 Flask Implementation:
 
 Utilize Flask to facilitate data extraction from the selected APIs.
