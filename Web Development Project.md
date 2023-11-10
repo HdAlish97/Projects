@@ -1,8 +1,6 @@
 Task : Simple Static Web Development Final Project using Flask
 As part of my ongoing commitment to enhance my skills and demonstrate practical application of knowledge, I have undertaken a data analysis project utilizing Flask and Python scripting. The task involves selecting two APIs with substantial datasets, ensuring verification of the dataset
 
-Project Objectives:
-
 API Selection:
 
 Choose two APIs with substantial datasets, ensuring relevance to the project's scope.
